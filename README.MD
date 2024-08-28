@@ -53,7 +53,6 @@ The formatter processes the following columns:
 
 ## 👨‍💻 Author Profile
 
-**Author**: [Nitin Kumar](https://github.com/NitinKumar)  
-**GitHub**: [github.com/NitinKumar](https://github.com/NitinKumar)  
-**Email**: [nitin.kumar@example.com](mailto:nitin.kumar@example.com)  
+**Author**: [Nitin Kumar](https://nitinkumar30.netlify.app/)  
+**LinkedIn**: [nitin30kumar](https://linkedin.com/in/nitin30kumar/)   
 **About Me**: Passionate developer focused on creating tools for effective data management and secure processing. Dedicated to building solutions that simplify complex tasks and enhance productivity.
